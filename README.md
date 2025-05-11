@@ -1,6 +1,6 @@
 # 📞 Telefonbuch - Einfache Kontaktverwaltung
 
-Ein einfaches Telefonbuch-Anwendung mit Python und PyQt5, welches die Verwaltung von Kontakten ermöglicht. Die Daten werden in einer JSON-Datei (`contacts.json`) gespeichert.
+Ein einfaches Telefonbuch-Anwendung mit Python , welches die Verwaltung von Kontakten ermöglicht. Die Daten werden in einer JSON-Datei (`contacts.json`) gespeichert.
 
 ## ✨ Features
 
@@ -13,7 +13,6 @@ Ein einfaches Telefonbuch-Anwendung mit Python und PyQt5, welches die Verwaltung
 ## 🚀 Voraussetzungen
 
 * Python 3.10 oder höher
-* PyQt5 Bibliothek
 
 ### Installation der Abhängigkeiten:
 
