@@ -14,12 +14,6 @@ Ein einfaches Telefonbuch-Anwendung mit Python , welches die Verwaltung von Kont
 
 * Python 3.10 oder höher
 
-### Installation der Abhängigkeiten:
-
-```bash
-$ pip install pyqt5
-```
-
 ## 📦 Installation und Ausführung
 
 1. Repository klonen oder den Code kopieren:
