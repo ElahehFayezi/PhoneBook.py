@@ -19,7 +19,7 @@ Ein einfaches Telefonbuch-Anwendung mit Python , welches die Verwaltung von Kont
 1. Repository klonen oder den Code kopieren:
 
 ```bash
-$ git clone https://github.com/username/telefonbuch.git
+$ git clone https://github.com/ElahehFayezi/telefonbuch.git
 ```
 
 2. In das Verzeichnis wechseln:
